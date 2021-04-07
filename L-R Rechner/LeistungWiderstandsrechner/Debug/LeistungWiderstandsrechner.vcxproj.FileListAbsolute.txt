@@ -1,0 +1,3 @@
+C:\Users\maxi-\source\repos\LeistungWiderstandsrechner\LeistungWiderstandsrechner\Debug\LeistungWiderstandsrechner.vcxprojAssemblyReference.cache
+C:\Users\maxi-\source\repos\LeistungWiderstandsrechner\LeistungWiderstandsrechner\Debug\LeistungWiderstandsrechner.Form1.resources
+C:\Users\maxi-\source\repos\LeistungWiderstandsrechner\LeistungWiderstandsrechner\Debug\LeistungWiderstandsrechner.vcxproj.GenerateResource.cache
